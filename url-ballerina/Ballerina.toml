@@ -1,6 +1,6 @@
 [package]
 org = "ballerina"
-name = "url.new"
+name = "url"
 version = "@toml.version@"
 
 [[platform.java11.dependency]]
